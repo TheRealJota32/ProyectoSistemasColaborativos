@@ -18,8 +18,8 @@ Diagrama de clases del sistema bancario
 
 Diagrama de secuencia, asociado a 3 casos de uso del sistema
 
-![!](PrimerAvanceSemana4\Ejercicio3\media/Agregar_Producto.png)
+![!](\PrimerAvanceSemana4\Ejercicio3\media/Agregar_Producto.png)
 
-![!](PrimerAvanceSemana4\Ejercicio3\media/Agregar_Rol.png)
+![!](\PrimerAvanceSemana4\Ejercicio3\media/Agregar_Rol.png)
 
-![!](PrimerAvanceSemana4\Ejercicio3\media/Atender_Cliente.png)
+![!](\PrimerAvanceSemana4\Ejercicio3\media/Atender_Cliente.png)
