@@ -19,3 +19,23 @@ Diagrama de secuencia, asociado a 3 casos de uso del sistema
 ## Ejercicio 4
 
 Diagramas de github
+
+## Ejercicio 5
+
+Diagrama de red
+
+## Ejercicio 6
+
+Diagrama de Despliegue
+
+## Ejercicio 7
+
+Documento de NRAF (Network Request Access Form)
+
+## Ejercicio 8
+
+Documento de BOM (Bill of Material)
+
+## Ejercicio 9
+
+Documentación para Sistema de Open Flow para la administración de red y seguridad
