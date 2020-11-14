@@ -1,3 +1,3 @@
-# Diagrama de Despliegue - Modelo de tres capas.
+# Diagrama de Despliegue - Modelo de tres capas
 
 ![!](DiagramaDeDespliegue.png)
